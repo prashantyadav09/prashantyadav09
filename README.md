@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prashantyadav09
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Web Developing
+- 🌱 I’m currently learning Web Developing in asp.net
 
 
 <!---
